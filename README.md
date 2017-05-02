@@ -12,17 +12,23 @@ Testes on
 
 Usage:
 Download repository by cloning the Git Repo and run the script:
+
 $ sudo apt instal git         #(skip if git already installed )
+
 $ git clone https://github.com/R3DDY97/opencv-install-script.git
+
 $ cd opencv-install-script
 
 $ chmod a+x install_opencv.sh && ./install_opencv.sh 
+
     or
+    
 $ bash install_opencv.sh
+
 
 It takes time to install all dependencies, download, compile, Install opencv  depending on the net and system speed 
 
-After Installation, it checks for the proper installation on opencv
+After Installation, it checks for the proper installation on opencv and disaplays its version and image of open-cv logo 
 
 
 
